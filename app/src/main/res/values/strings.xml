@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Upasarga Technology</string>
+    <string name="click_me">Click me !</string>
+    <string name="click_here_to_change_color_of_below_fragment">Click here to change color of below fragment</string>
+    <string name="click_here_to_change">Click here to change button text. </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

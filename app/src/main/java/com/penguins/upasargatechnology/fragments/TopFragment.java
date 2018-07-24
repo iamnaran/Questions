@@ -72,7 +72,7 @@ public class TopFragment extends UpasargaFragment implements View.OnClickListene
             onTopFragmentListener = (OnTopFragmentListener) context;
         } else {
             throw new RuntimeException(context.toString()
-                    + " must implement OnGreenFragmentListener");
+                    + " must implement listeners");
         }
     }
 

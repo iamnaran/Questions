@@ -87,7 +87,7 @@ public class BottomFragment extends UpasargaFragment implements View.OnClickList
             onBottomfragmentListener = (OnBottomfragmentListener) context;
         } else {
             throw new RuntimeException(context.toString()
-                    + " must implement OnGreenFragmentListener");
+                    + " must implement listeners");
         }
     }
 
